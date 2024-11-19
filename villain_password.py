@@ -14,7 +14,7 @@ villain_names = read_villain_names('villains.txt')
 uppercase_letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 lowercase_letters = 'abcdefghijklmnopqrstuvwxyz'
 digits = '0123456789'
-symbols = '!@#$%^&*_+-=;:,./?'
+symbols = '!@#$%^&*+-=;:,./?'
 
 # Minimum password length (by default 7)
 min_password_length = 7
