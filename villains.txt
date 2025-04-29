@@ -15,3 +15,4 @@ Thanos
 Cruella
 Dr Evil
 Magneto
+Psycho Mantis
